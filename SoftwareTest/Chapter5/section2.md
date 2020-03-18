@@ -1,3 +1,5 @@
+# 目录
+- [目录](#%e7%9b%ae%e5%bd%95)
 - [等价类划分 Equivalence Partitioning](#%e7%ad%89%e4%bb%b7%e7%b1%bb%e5%88%92%e5%88%86-equivalence-partitioning)
   - [输入域](#%e8%be%93%e5%85%a5%e5%9f%9f)
   - [划分域](#%e5%88%92%e5%88%86%e5%9f%9f)
